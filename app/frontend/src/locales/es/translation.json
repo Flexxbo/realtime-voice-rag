@@ -1,13 +1,13 @@
 {
     "app": {
-        "title": "Habla con tus datos",
+        "title": "AI-CONCIERGE",
         "footer": "Creado con Azure AI Search + Azure OpenAI",
         "stopRecording": "Detener grabación",
         "startRecording": "Comenzar grabación",
         "stopConversation": "Detener conversación"
     },
     "status": {
-        "notRecordingMessage": "Pregunta cualquier cosa sobre los beneficios de los empleados de Contoso",
+        "notRecordingMessage": "Pregunta cualquier cosa sobre 99sensors",
         "conversationInProgress": "Conversación en progreso"
     },
     "history": {

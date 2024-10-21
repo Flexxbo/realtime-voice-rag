@@ -1,13 +1,13 @@
 {
     "app": {
-        "title": "データと話す",
+        "title": "AI-CONCIERGE",
         "footer": "Azure AI Search + Azure OpenAI で構築",
         "stopRecording": "録音を停止",
         "startRecording": "録音を開始",
         "stopConversation": "会話を停止"
     },
     "status": {
-        "notRecordingMessage": "Contoso 従業員の福利厚生について質問してください",
+        "notRecordingMessage": "99sensors 従業員の福利厚生について質問してください",
         "conversationInProgress": "会話が進行中"
     },
     "history": {
